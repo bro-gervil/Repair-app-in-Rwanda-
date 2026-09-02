@@ -1,0 +1,6 @@
+{
+  "name": "Gira-Tech",
+  "description": "Kigali's Circular Tech Repair, Certified Refurbished Marketplace & E-Waste Recycling Platform",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
